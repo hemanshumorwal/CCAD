@@ -16,7 +16,7 @@ The report is divided into two dashboards:
 Together, these dashboards help businesses monitor financial performance, understand customer segments, and optimize decision-making.
 
 <p align="center">
-  <img src="Images/HLF.png" width="100%" alt="High Level Flow">
+  <img src="HLF.png" width="100%" alt="High Level Flow">
 </p>
 
 ---
